@@ -14,7 +14,7 @@ I am a graduate student of mathematics at the University of Nottingham, currentl
 My main interests are algebraic geometry and a bit of number theory(still new to this). I used to be quite besotted with symplectic geometry but it looks like it was just a phase.
 
 
-<b><i>WHAT AM I THINKING ABOUT? </b></i>
+<b><i>WHAT AM I THINKING ABOUT? </i></b>
 <br><br>
   Lately I think about deformations of schemes. There's lots of algebra behind it but also many interesting geometric questions to think about. It's a powerful tool that's very useful(apparently) for studying singularities and it's also a major ingreditent of mirror symmetry. Homological algebra still eludes me, but I'm making a slow and steady progress in that area as well. 
   
