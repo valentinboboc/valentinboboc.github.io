@@ -36,6 +36,6 @@ Lots of Finnish rap in my YouTube mix lately.
 
 <b><i>WHAT I'M READING ATM</i></b> 
 <br><br>
-FICTION: The Three Body Problem Trilogy by Cixin Liu. It's the best scifi book I ever read.
+FICTION: The Three Body Problem Trilogy by Cixin Liu. It's the best scifi book I ever read. <br>
 NON-FICTION: Homo Deus by Yuval Noah Harari
 
