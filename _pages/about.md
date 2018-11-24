@@ -16,17 +16,17 @@ redirect_from:
 
 I am a graduate student of mathematics at the University of Nottingham, currently doing my MSc in Pure Mathematics. 
 
-My main interests are algebraic geometry and a bit of number theory(still new to this). I used to be quite besotted with symplectic geometry but it looks like it was just a phase.
+My main interests are algebraic geometry and category theory.
 
 
 <b><i>MATHS I THINK ABOUT RIGHT NOW</i></b>
 <br><br>
-  Lately I think about deformations of schemes. There's lots of algebra behind it but also many interesting geometric questions to think about. It's a powerful tool that's very useful(apparently) for studying singularities and it's also a major ingreditent of mirror symmetry. Homological algebra still eludes me, but I'm making a slow and steady progress in that area as well. 
+  Toric degenerations
   
   
 <b><i>WHAT I'M WRITING</i></b> 
 <br><br>
-Right now I'm focusing on personal statements and coursework. 
+Nothing interesting for now. 
 
 
 <b><i>WHAT I'M LISTENING TO</i></b> 
