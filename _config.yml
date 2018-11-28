@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "geometry spellbook"
+title                    : "valentin boboc"
 title_separator          : "-"
 name                     : &name "Valentin Boboc"
 description              : &description "Graduate Student - Mathematics"
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   bio              : "Graduate Student - Mathematics"
   location         : "Nottingham, England"
   employer         : "University of Nottingham"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "..."
   email            :
   uri              :
   bitbucket        :
@@ -99,13 +99,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@ActuallyBlueOwl"
   vine             :
   weibo            :
   xing             :
